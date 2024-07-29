@@ -5,7 +5,7 @@ This repository contains data and code for our semantic parsing dataset SPICE. P
 
 ## SPICE Dataset 
 
-The dataset is available for download from [here](https://uoe-my.sharepoint.com/:u:/g/personal/lperez_ed_ac_uk/EcW2mmVhXVJCtCHNYuY1Ew4Bt9PPwiKZErympWIZbMolRQ).
+The dataset is available for download from [here](https://drive.google.com/file/d/1v7sZrRrdNmnjBrvHStCMX4TQIzDN6z4K/view?usp=sharing).
 
 The scripts for the different annotations (e.g., NER/NEL) on the dataset can be found [here](./dataset).
 
